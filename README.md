@@ -1,10 +1,12 @@
 # Crypto-Clustering
 
 Table of Contents
+
 This assignment contains Resources folder which has crypto_market_data.csv file, 
 Crypto_Clustering.ipynb, which is the script for the analysis
 
 Challenge Objective
+
 The objective of this challenge is to use knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 Analysis
